@@ -5,6 +5,7 @@
   <li><strong>Удивительный inline-block</strong> - http://clc.to/yk71-Q</li>
   <li><strong>Свойство "float"</strong> - https://learn.javascript.ru/float</li>
   <li><strong>Все о свойстве "float"</strong> - http://clc.to/F0b_Fg</li>
+  <li><strong>Как работает flex-grow в CSS. Подробное руководство.</strong> - http://clc.to/I0eg-Q</li>
 </ul>
 
 <h2>Демки</h2>
