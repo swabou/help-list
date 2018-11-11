@@ -6,7 +6,7 @@
   <li><strong>Свойство "float"</strong> - https://learn.javascript.ru/float</li>
   <li><strong>Все о свойстве "float"</strong> - http://clc.to/F0b_Fg</li>
   <li><strong>Как работает flex-grow в CSS. Подробное руководство.</strong> - http://clc.to/I0eg-Q</li>
-  <li><strong>Как применять свойство <em>box-sizing</em></strong> - https://is.gd/B4R0kO</li>
+  <li><strong>Как применять свойство</strong><em>box-sizing</em> - https://is.gd/B4R0kO</li>
 </ul>
 
 <h2>Демки</h2>
