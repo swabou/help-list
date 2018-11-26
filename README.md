@@ -9,11 +9,17 @@
   <li><strong>Как применять свойство <em>"box-sizing"</em></strong> - https://is.gd/B4R0kO</li>
 </ul>
 
+<h2>SVG</h2>
+<ul>
+  <li><strong>Карманное руководство по написанию SVG</strong> - https://is.gd/nqZZNV</li>
+</ul>
+
 <h2>Демки</h2>
 <ul>
   <li><strong>Валидация формы без JS</strong> - https://codepen.io/sealeye/pen/JKBgkK</li>
   <li><strong>Простая валидация формы без JS</strong> - https://habr.com/post/332804/</li>
   <li><strong>Зубчатый фон(Заборчик)</strong> - http://jsfiddle.net/CyberAP/eSx3d/</li>
+  <li><strong>Базовые свойства SVG</strong> - https://is.gd/INtYiA</li>
 </ul>
 
 <h2>БЭМ</h2>
