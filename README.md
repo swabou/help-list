@@ -34,4 +34,5 @@
   <li><strong>Как называть классы?</strong> - https://github.com/yoksel/common-words</li>
   <li><strong>Зубчатый фон(Заборчик)</strong> - https://habr.com/post/176591/</li>
   <li><strong>Большой сборник статей (Basic level)</strong> - http://bit.do/basiclevel</li>
+  <li><strong>npm для "простых смертных"</strong> - https://habr.com/post/243335/</li>
 </ul>
